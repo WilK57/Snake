@@ -2,3 +2,4 @@ There is a snake
 He is green 
 He is blue
 He is mean
+He has red stripes
